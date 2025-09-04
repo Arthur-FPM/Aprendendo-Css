@@ -1,0 +1,24 @@
+*{
+margin: 0%;/* Espaçamento externo */
+padding: 0%;/* Espaçamento interno */
+}
+
+h1{
+    color: hsl(120, 100%, 25%);/* Adiciona cor na letra */
+    background-color: aquamarine;/* Adiciona cor no fundo */
+    font-size: 50px;/* Tamanho da fonte */
+    margin: 50px;
+    padding: 50px;
+    text-transform: uppercase; /* Letra maiúscula */
+    font-weight: bold;/* espessura */
+    font-family: Arial, Helvetica, sans-serif;/* estilo da fonte */
+    letter-spacing: 20px;/* Espaçamento entre as letras */
+    text-align: center;/* Alinhar texto */
+    border-radius: 15px;/* adicionar curvatura de borda */
+    box-shadow: rgb(53, 150, 230) 10px 10px 20px;/* Adicionar sombra */
+    border:  rgb(0, 0, 0) 1px;/* adicionar borda */
+}
+p{
+text-align: justify;
+
+}
