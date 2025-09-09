@@ -1,0 +1,29 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box
+}
+
+.container{
+    align-items: center;
+    display: flex;
+   flex-direction: column;
+    gap: 15px;
+}
+.box{
+    padding: 20px;
+    color: aliceblue;
+    font-size: 20px;
+      width: 150px;
+    height: 170px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#box1{
+    background-color: red;
+}
+#box2{
+    display: flex;
+    gap: 15px;
+    background-color: blue;
+}

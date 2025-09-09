@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box
+}
+
+p {
+    background-color: rgb(209, 100, 100);
+}
+
+.bgazul {
+    background-color: rgb(61, 233, 233);
+}
+
+p {
+    background-color: yellow;
+}
+
+#bg-bigode {
+    background-color: violet;
+}
