@@ -1,0 +1,15 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box
+}
+body {
+    background-image: url("9c8e5f794755b1cd948ffe852d6e4025.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+h1 {
+    color: rebeccapurple;
+}
